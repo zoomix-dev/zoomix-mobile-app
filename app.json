@@ -1,0 +1,12 @@
+{
+  "name": "zoomix-mobile-app",
+  "displayName": "zoomix-mobile-app",
+  "expo": {
+    "name": "zoomix-mobile-app",
+    "slug": "zoomix-mobile-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
