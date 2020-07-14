@@ -1,0 +1,12 @@
+{
+  "name": "zoomix",
+  "displayName": "zoomix",
+  "expo": {
+    "name": "zoomix",
+    "slug": "zoomix",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
