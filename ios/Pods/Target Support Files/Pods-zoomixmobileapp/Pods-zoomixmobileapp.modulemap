@@ -1,0 +1,6 @@
+module Pods_zoomixmobileapp {
+  umbrella header "Pods-zoomixmobileapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
